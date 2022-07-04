@@ -31,7 +31,7 @@ while True:
             break
     else:
         horas = datetime.today().strftime('%H:%M:%S')  # vai fazer a verificação, se chegou no horario ou não
-        time.sleep(60) #ele deixa o pc descançando, assim não puxa tanto o sistema
+        time.sleep(2400) #ele deixa o pc descançando, assim não puxa tanto o sistema
 
 
         
