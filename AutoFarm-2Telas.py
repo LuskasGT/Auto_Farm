@@ -32,7 +32,7 @@ while True:
 
         pyautogui.moveTo(798, 52)  #levando para a barra de pesquisa
         pyautogui.click()     #clicando para conseguir digitar
-        pyautogui.write('https://www.twitch.tv/xrooh1')    #link da segunda live
+        pyautogui.write('https://www.twitch.tv/pitterfn')    #link da segunda live
 
         pyautogui.press('enter')    #apertando o enter
         pyautogui.moveTo(361, 14)  #colocando o mose no navegador para arrastar
